@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 108989024
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: skin/common
+      Dependencies: {}
+    Info_1:
+      Name: skin/module
+      Dependencies: {}
